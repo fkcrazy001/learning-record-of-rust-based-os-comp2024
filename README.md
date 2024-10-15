@@ -3,3 +3,6 @@ this repository is for recording my learning process of https://opencamp.cn/os2e
 
 # Rust基础语法学习，习题以及问题记录
 [20240930 -- 20241008]()
+
+# rCore-Camp-Guide
+[20241015](rCore-Camp-Guide/20241015.md)
